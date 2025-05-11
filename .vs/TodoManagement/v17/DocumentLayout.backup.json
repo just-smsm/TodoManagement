@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\TodoManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|c:\\users\\dell\\downloads\\todomanagement\\todomanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|solutionrelative:todomanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|c:\\users\\dell\\downloads\\todomanagement\\todomanagement\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|solutionrelative:todomanagement\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|c:\\users\\dell\\downloads\\todomanagement\\todomanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|solutionrelative:todomanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|c:\\users\\dell\\downloads\\todomanagement\\todomanagement\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|solutionrelative:todomanagement\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|c:\\users\\dell\\downloads\\todomanagement\\todomanagement\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|solutionrelative:todomanagement\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|c:\\users\\dell\\downloads\\todomanagement\\todomanagement\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|solutionrelative:todomanagement\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|c:\\users\\dell\\downloads\\todomanagement\\todomanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|solutionrelative:todomanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390AD549-8270-43A2-AE50-DA4541A34DD4}|Infrastructure Layer\\Infrastructure Layer.csproj|c:\\users\\dell\\downloads\\todomanagement\\infrastructure layer\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390AD549-8270-43A2-AE50-DA4541A34DD4}|Infrastructure Layer\\Infrastructure Layer.csproj|solutionrelative:infrastructure layer\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C7B226-07EE-45D8-A3F2-18700BCE3805}|Domain Layer\\Domain Layer.csproj|c:\\users\\dell\\downloads\\todomanagement\\domain layer\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C7B226-07EE-45D8-A3F2-18700BCE3805}|Domain Layer\\Domain Layer.csproj|solutionrelative:domain layer\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B101F28B-E584-47A2-A6EC-4CF9F9D04995}|Application Layer\\Application Layer.csproj|c:\\users\\dell\\downloads\\todomanagement\\application layer\\appservice\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B101F28B-E584-47A2-A6EC-4CF9F9D04995}|Application Layer\\Application Layer.csproj|solutionrelative:application layer\\appservice\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|c:\\users\\dell\\downloads\\todomanagement\\todomanagement\\viewmodels\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|solutionrelative:todomanagement\\viewmodels\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|c:\\users\\dell\\downloads\\todomanagement\\todomanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|solutionrelative:todomanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B101F28B-E584-47A2-A6EC-4CF9F9D04995}|Application Layer\\Application Layer.csproj|c:\\users\\dell\\downloads\\todomanagement\\application layer\\iappservice\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B101F28B-E584-47A2-A6EC-4CF9F9D04995}|Application Layer\\Application Layer.csproj|solutionrelative:application layer\\iappservice\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C7B226-07EE-45D8-A3F2-18700BCE3805}|Domain Layer\\Domain Layer.csproj|c:\\users\\dell\\downloads\\todomanagement\\domain layer\\domain layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35C7B226-07EE-45D8-A3F2-18700BCE3805}|Domain Layer\\Domain Layer.csproj|solutionrelative:domain layer\\domain layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B101F28B-E584-47A2-A6EC-4CF9F9D04995}|Application Layer\\Application Layer.csproj|c:\\users\\dell\\downloads\\todomanagement\\application layer\\application layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B101F28B-E584-47A2-A6EC-4CF9F9D04995}|Application Layer\\Application Layer.csproj|solutionrelative:application layer\\application layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|c:\\users\\dell\\downloads\\todomanagement\\todomanagement\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD8D2AD3-3A13-4DFA-B619-3A6372E0A9E6}|TodoManagement\\TodoManagement.csproj|solutionrelative:todomanagement\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C7B226-07EE-45D8-A3F2-18700BCE3805}|Domain Layer\\Domain Layer.csproj|c:\\users\\dell\\downloads\\todomanagement\\domain layer\\models\\todostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C7B226-07EE-45D8-A3F2-18700BCE3805}|Domain Layer\\Domain Layer.csproj|solutionrelative:domain layer\\models\\todostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C7B226-07EE-45D8-A3F2-18700BCE3805}|Domain Layer\\Domain Layer.csproj|c:\\users\\dell\\downloads\\todomanagement\\domain layer\\models\\todopriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C7B226-07EE-45D8-A3F2-18700BCE3805}|Domain Layer\\Domain Layer.csproj|solutionrelative:domain layer\\models\\todopriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B101F28B-E584-47A2-A6EC-4CF9F9D04995}|Application Layer\\Application Layer.csproj|c:\\users\\dell\\downloads\\todomanagement\\application layer\\viewmodels\\todostatusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B101F28B-E584-47A2-A6EC-4CF9F9D04995}|Application Layer\\Application Layer.csproj|solutionrelative:application layer\\viewmodels\\todostatusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390AD549-8270-43A2-AE50-DA4541A34DD4}|Infrastructure Layer\\Infrastructure Layer.csproj|c:\\users\\dell\\downloads\\todomanagement\\infrastructure layer\\migrations\\20250508162737_update-description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390AD549-8270-43A2-AE50-DA4541A34DD4}|Infrastructure Layer\\Infrastructure Layer.csproj|solutionrelative:infrastructure layer\\migrations\\20250508162737_update-description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390AD549-8270-43A2-AE50-DA4541A34DD4}|Infrastructure Layer\\Infrastructure Layer.csproj|c:\\users\\dell\\downloads\\todomanagement\\infrastructure layer\\migrations\\20250508155118_add_todo_model_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390AD549-8270-43A2-AE50-DA4541A34DD4}|Infrastructure Layer\\Infrastructure Layer.csproj|solutionrelative:infrastructure layer\\migrations\\20250508155118_add_todo_model_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\Views\\Todo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TodoManagement\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\Views\\Todo\\Edit.cshtml",
+              "RelativeToolTip": "TodoManagement\\Views\\Todo\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:21:28.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Domain Layer\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Domain Layer\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Domain Layer\\Models\\Todo.cs",
+              "RelativeToolTip": "Domain Layer\\Models\\Todo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA/wBoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:51:51.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Application Layer\\AppService\\TodoService.cs",
+              "RelativeDocumentMoniker": "Application Layer\\AppService\\TodoService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Application Layer\\AppService\\TodoService.cs",
+              "RelativeToolTip": "Application Layer\\AppService\\TodoService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:05:07.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\appsettings.json",
+              "RelativeToolTip": "TodoManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T15:27:16.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TodoManagement\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TodoManagement\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T16:04:13.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoManagement\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "TodoManagement\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAC4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:20:19.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\Views\\Todo\\Create.cshtml",
+              "RelativeDocumentMoniker": "TodoManagement\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "TodoManagement\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:21:04.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoManagement\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoManagement\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwEEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:07:29.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TodoManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TodoManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwBkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:03:47.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Infrastructure Layer\\Data\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure Layer\\Data\\TodoDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Infrastructure Layer\\Data\\TodoDbContext.cs",
+              "RelativeToolTip": "Infrastructure Layer\\Data\\TodoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:53:14.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\Program.cs",
+              "RelativeDocumentMoniker": "TodoManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\Program.cs",
+              "RelativeToolTip": "TodoManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:28:22.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250508162737_update-description.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Infrastructure Layer\\Migrations\\20250508162737_update-description.cs",
+              "RelativeDocumentMoniker": "Infrastructure Layer\\Migrations\\20250508162737_update-description.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Infrastructure Layer\\Migrations\\20250508162737_update-description.cs",
+              "RelativeToolTip": "Infrastructure Layer\\Migrations\\20250508162737_update-description.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:27:37.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TodoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\ViewModels\\TodoViewModel.cs",
+              "RelativeDocumentMoniker": "TodoManagement\\ViewModels\\TodoViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\ViewModels\\TodoViewModel.cs",
+              "RelativeToolTip": "TodoManagement\\ViewModels\\TodoViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvw0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:05:19.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Application Layer\\IAppService\\ITodoService.cs",
+              "RelativeDocumentMoniker": "Application Layer\\IAppService\\ITodoService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Application Layer\\IAppService\\ITodoService.cs",
+              "RelativeToolTip": "Application Layer\\IAppService\\ITodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:26:27.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250508155118_add_todo_model_migration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Infrastructure Layer\\Migrations\\20250508155118_add_todo_model_migration.cs",
+              "RelativeDocumentMoniker": "Infrastructure Layer\\Migrations\\20250508155118_add_todo_model_migration.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Infrastructure Layer\\Migrations\\20250508155118_add_todo_model_migration.cs",
+              "RelativeToolTip": "Infrastructure Layer\\Migrations\\20250508155118_add_todo_model_migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:51:18.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Domain Layer.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Domain Layer\\Domain Layer.csproj",
+              "RelativeDocumentMoniker": "Domain Layer\\Domain Layer.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Domain Layer\\Domain Layer.csproj",
+              "RelativeToolTip": "Domain Layer\\Domain Layer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T15:34:39.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Application Layer.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Application Layer\\Application Layer.csproj",
+              "RelativeDocumentMoniker": "Application Layer\\Application Layer.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Application Layer\\Application Layer.csproj",
+              "RelativeToolTip": "Application Layer\\Application Layer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T15:25:16.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\Views\\Todo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TodoManagement\\Views\\Todo\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\TodoManagement\\Views\\Todo\\Delete.cshtml",
+              "RelativeToolTip": "TodoManagement\\Views\\Todo\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:22:37.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TodoStatusViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Application Layer\\ViewModels\\TodoStatusViewModel.cs",
+              "RelativeDocumentMoniker": "Application Layer\\ViewModels\\TodoStatusViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Application Layer\\ViewModels\\TodoStatusViewModel.cs",
+              "RelativeToolTip": "Application Layer\\ViewModels\\TodoStatusViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:11:52.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TodoPriority.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Domain Layer\\Models\\TodoPriority.cs",
+              "RelativeDocumentMoniker": "Domain Layer\\Models\\TodoPriority.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Domain Layer\\Models\\TodoPriority.cs",
+              "RelativeToolTip": "Domain Layer\\Models\\TodoPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:51:30.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TodoStatus.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Domain Layer\\Models\\TodoStatus.cs",
+              "RelativeDocumentMoniker": "Domain Layer\\Models\\TodoStatus.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\TodoManagement\\Domain Layer\\Models\\TodoStatus.cs",
+              "RelativeToolTip": "Domain Layer\\Models\\TodoStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:51:08.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
