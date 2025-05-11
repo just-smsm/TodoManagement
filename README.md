@@ -33,7 +33,7 @@ A simple Todo management application with basic CRUD operations and status manag
 ### 1. Clone the Repository
 
 ```bash
-git clone [repository-url]
+git clone [https://github.com/just-smsm/TodoManagement]
 cd TodoManagement
 ```
 
@@ -44,7 +44,7 @@ Update the connection string in `appsettings.json`:
 ```json
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=(LocalDb)\\MSSQLLocalDB;Database=TodoManagementDb;Trusted_Connection=True;MultipleActiveResultSets=true"
+    "DefaultConnection": "Server=.;Database=TodoManagementDb;Trusted_Connection=True;MultipleActiveResultSets=true"
   }
 }
 ```
